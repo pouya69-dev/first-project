@@ -2426,11 +2426,11 @@
 }
 
 
-
-/*[  ]
+/*[  
 -----------------------------------------------------------
 */
 .bo-cir {border-radius: 50%;}
+.rounded-border{border-radius: 5rem;}
 
 .rounded_pill{border-radius: 5rem;}
 
